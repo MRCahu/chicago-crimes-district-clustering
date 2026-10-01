@@ -1,0 +1,4 @@
+ligação,k,silhouette,davies_bouldin,ARI_vs_Ward,mesma_partição_Ward
+Ward,2,0.46709355781016354,0.757543891341476,1.0,True
+Average,2,0.46709355781016354,0.757543891341476,1.0,True
+Complete,2,0.46709355781016354,0.757543891341476,1.0,True

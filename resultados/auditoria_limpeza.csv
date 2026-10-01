@@ -1,0 +1,9 @@
+etapa,excluidos,restantes
+ID ausente,0,1456714
+"ID duplicado, manter primeira linha",0,1456714
+Distrito ausente ou não numérico,1,1456713
+"Distrito fora de 1 a 25 ou fracionário, inclui residual 31",26,1456687
+Ano fora de 2012 a 2017 ou ausente,0,1456687
+Tipo principal ausente,0,1456687
+Arrest ou Domestic ausente,0,1456687
+Distrito com até 10 registros,1,1456686
